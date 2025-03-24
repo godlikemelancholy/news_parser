@@ -1,0 +1,6 @@
+bot_token = ""
+db_host = ""
+db_user = ""
+db_port = ""
+db_pass = ""
+db_name = ""
